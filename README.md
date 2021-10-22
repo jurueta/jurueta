@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I like games like Age Of Empires, Valorant, Rust, etc
   
 <div align="center">
-  <a href="https://github.com/GhostemaneUrs">
+  <a href="https://github.com/jurueta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jurueta&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurueta&layout=compact&langs_count=7&theme=buefy"/>
 </div>

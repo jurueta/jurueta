@@ -24,8 +24,6 @@
   <img width="95.9%" src="https://github-profile-trophy.vercel.app/?username=jurueta&row=5&column=7&theme=vue" alt="jurueta" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jurueta&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jurueta&theme=vue&hide_border=true"/>
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurueta&layout=compact&langs_count=7&theme=vue"/>
-  <img width="39%" src="https://raw.githubusercontent.com/jurueta/jurueta/master/resources/code-coding.gif"/>
 </div><br>
 
 ----
@@ -46,7 +44,6 @@
   <a href = "mailto:juruetacantillo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-![Snake animation](https://github.com/jurueta/jurueta/blob/output/github-contribution-grid-snake.svg)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)

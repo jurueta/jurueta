@@ -1,22 +1,25 @@
-### !!Hello World!! 
-
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
-</div>  
+<h1>Hi 👋, I'm Jesús Urueta</h1>
+<h3>A passionate backend developer from Colombia</h3>
+</div><br> 
+
+<div>
+<img src="https://miro.medium.com/max/1000/0*qoAZjKOTOUBcgV2h.gif" align="right" style="width: 40%" />
+ 
+ - 🔭 I'm currently working with DJando, Python technologies
   
 
-- 🔭 I'm currently working with React, NodeJs technologies
+- 🌱 I'm currently deepening my knowledge in DJando and Python
   
 
-- 🌱 I'm currently deepening my knowledge in React and Node Js 
+- ❓ I would like to learn how to test Python to improve the quality of my work
   
 
-- ❓ I would like to learn how to test ReactJs to improve the quality of my work
-  
+- ⚡ Fun fact: I like games like Fornite, league of legends, I also like all kinds of food 
+</div><br>
 
-- ⚡ Fun fact: I like games like Age Of Empires, Valorant, Rust, etc
-  
+----
+   
 <div align="center">
   <a href="https://github.com/jurueta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jurueta&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>

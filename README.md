@@ -4,15 +4,15 @@
 </div><br>
 
 <div style="display: inline_block">
-<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/jurueta/jurueta/master/resources/giphy.gif"/>
+<img align="right" style="width:14rem; height:auto" src="https://raw.githubusercontent.com/jurueta/jurueta/master/resources/giphy.gif"/>
 
- - 🔭 I'm currently working with DJando, Python technologies
+- 🔭 I'm currently working with DJando, Python technologies
 
-- 🌱 I'm currently deepening my knowledge in DJando and Python
+- 🌱 I'm currently facing new challenges
 
+- ❓ I would like to learn all the technologies to be a better backend every day
 
-- ❓ I would like to learn how to test Python to improve the quality of my work
-
+- 👯 I’m looking to collaborate on Python
 
 - ⚡ Fun fact: I like games like Fornite, league of legends, I also like all kinds of food
 </div><br>

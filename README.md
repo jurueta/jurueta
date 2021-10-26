@@ -25,7 +25,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jurueta&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jurueta&theme=vue&hide_border=true"/>
   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurueta&layout=compact&langs_count=7&theme=vue"/>
-</div>
+  <img width="39%" src="https://raw.githubusercontent.com/jurueta/jurueta/master/resources/code-coding.gif"/>
+</div><br>
+
+----
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -6,7 +6,7 @@
 <div style="display: inline_block">
 <img align="right" style="width:14rem; height:auto" src="https://raw.githubusercontent.com/jurueta/jurueta/master/resources/giphy.gif"/>
 
-- 🔭 I'm currently working with DJando, Python technologies
+- 🔭 I'm currently working with Djando, Python technologies
 
 - 🌱 I'm currently facing new challenges
 
@@ -21,8 +21,10 @@
 
 <div align="center">
   <a href="https://github.com/jurueta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jurueta&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurueta&layout=compact&langs_count=7&theme=buefy"/>
+  <img width="95.9%" src="https://github-profile-trophy.vercel.app/?username=jurueta&row=5&column=7&theme=vue" alt="jurueta" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jurueta&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jurueta&theme=vue&hide_border=true"/>
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurueta&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
 <div style="display: inline_block"><br>

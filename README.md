@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/jurueta/jurueta/master/resources/code-coding.gif" align="center" style="width: 90%" />
+<img src="https://raw.githubusercontent.com/jurueta/jurueta/master/resources/code-coding.gif" align="center" style="width: 100%" />
 </div><br>
 
 <div style="display: inline_block">
